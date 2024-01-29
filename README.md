@@ -14,7 +14,7 @@ A text editor built as a Progressive Web App
 
 
 ## Installation 
-Clone this repository, run npm i, then npm run start in the Develop folder.
+Clone this repository, run npm i, then npm run build, then npm run start in the Develop folder.
 
 ## Credits 
 MSU Full Stack Bootcamp coursework
