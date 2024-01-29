@@ -20,7 +20,7 @@ Clone this repository, run npm i, then npm run build, then npm run start in the 
 MSU Full Stack Bootcamp coursework
 ## License 
 
-    ![badge](https://img.shields.io/badge/license-MIT-blue.svg) [MIT Licensing](https://opensource.org/license/mit/)
+[MIT Licensing](https://opensource.org/license/mit/)
 
 ## Questions
 - Github [benrodriguezmoran](https://github.com/benrodriguezmoran) 
